@@ -187,7 +187,9 @@ marp-pre {
     color: black;
   }
   .fit h1 {
-    color:  var(--highlight-high);
+    color:  var(--rose);
+     -webkit-text-stroke: 1px var(--highlight-high);
+
   
   }
 
@@ -282,8 +284,8 @@ marp-pre {
 
 ---
 
- ![bg bg left](questions.png)
- 
+ ![bg bg left](https://raw.githubusercontent.com/coelhoisaque/git-github-presentation/refs/heads/main/assets/questions.png)
+
  # <!--fit--> O Que é Git? 
 
 ---
@@ -293,7 +295,7 @@ marp-pre {
 - Git é um sistema de controle de versionamento – VCS, rápido, escalável e distribuído.
 - Sistema que registra mudanças em arquivos ao longo do tempo.
 - Permite voltar a versões anteriores e colaborar em equipe.
- ![bg bg right:40%](./gitlog.png)
+ ![bg bg right:40%](https://raw.githubusercontent.com/coelhoisaque/git-github-presentation/refs/heads/main/assets/gitlog.png)
 
 ---
 
@@ -308,8 +310,8 @@ marp-pre {
 # Por que Usar Git?
 
 <div class="columns">
-  <img src="control_version.svg" alt="">
-  <img src="Controle_de_versão.jpg" alt="">
+  <img src="https://raw.githubusercontent.com/coelhoisaque/git-github-presentation/218f2435f869691b2793708acd48c23c8ff8af85/assets/control_version.svg" alt="">
+  <img src="https://raw.githubusercontent.com/coelhoisaque/git-github-presentation/refs/heads/main/assets/Controle_de_vers%C3%A3o.jpg" alt="">
 </div>
 
 ---
@@ -387,7 +389,7 @@ Snapshot das alterações feitas no código.
 
 <div>
 
-**Branch**
+## *Branch*
 
 <p>Uma linha separada para desenvolver novas funcionalidades sem afetar o código principal.</p>
 
@@ -396,11 +398,11 @@ Snapshot das alterações feitas no código.
 
 <div>
 
-**Merge**
+## *Merge*
 
 <p>Une as mudanças feitas em uma branch ao repositório principal, mantendo o histórico organizado.</p>
 
-<img src="merge_sign.png">
+<img src="https://raw.githubusercontent.com/coelhoisaque/git-github-presentation/refs/heads/main/assets/merge_sign.png">
 </div>
 
 </div>
@@ -416,7 +418,7 @@ cria uma cópia de um repositório no GitHub para contribuição
 
  <div class="columns" >
 
-  <div>  <img src="image.png" alt="" width="400" > </div>
+  <div>  <img src="https://raw.githubusercontent.com/coelhoisaque/git-github-presentation/refs/heads/main/assets/image.png" width="400" > </div>
   <div> </div><img src="https://lh6.googleusercontent.com/Jx8elsiCgdODvPhyUah4xYO7IM9W2vH4beO3uZrpwTXsQ_Y9EjHkE0t8xPZN_duFA66vPJmFAIMCzI1D5oamkBPcjKtC3cKPxr1FTu40oA2W9F7zter9v-WvRZwuQZsk_D7N2Xgu0LUkyMlQTsLukgI" alt="" width="300"> </div>
   
  </div>
@@ -461,7 +463,7 @@ git fetch                          # Busca alterações sem mesclar
 #  O Que é GitHub?
 
  <div class="columns">
-  <img src="./image-1.png" alt="">
+  <img src="https://raw.githubusercontent.com/coelhoisaque/git-github-presentation/refs/heads/main/assets/image-1.png" alt="">
  </div>
 
 
@@ -470,7 +472,7 @@ git fetch                          # Busca alterações sem mesclar
 #  O Que é GitHub?
 
  <div class="columns">
-  <img src="./página-unica-1024x744.jpg" alt="">
+  <img src="https://raw.githubusercontent.com/coelhoisaque/git-github-presentation/refs/heads/main/assets/p%C3%A1gina-unica-1024x744.jpg" alt="">
  </div>
 
 
@@ -483,7 +485,7 @@ git fetch                          # Busca alterações sem mesclar
 #  O Que é GitHub?
 
 <div class="columns">
-  <img src="./página-unica-X.jpg" width="">
+  <img src="https://raw.githubusercontent.com/coelhoisaque/git-github-presentation/refs/heads/main/assets/p%C3%A1gina-unica-X.jpg" width="">
  </div>
 
 ## Seu portfólio web 
@@ -493,7 +495,7 @@ git fetch                          # Busca alterações sem mesclar
 #  O Que é GitHub?
 
 <div class="columns">
-  <img src="./meugit.png" width="">
+  <img src="https://raw.githubusercontent.com/coelhoisaque/git-github-presentation/refs/heads/main/assets/meugit.png">
  </div>
 
 
@@ -507,7 +509,7 @@ git fetch                          # Busca alterações sem mesclar
 - Registre uma conta no [GitHub](http://github.com)
 - Escolha um editor (vim, gedit, vscode)
 
-![bg left](./LoginHub.png)
+![bg left](https://raw.githubusercontent.com/coelhoisaque/git-github-presentation/refs/heads/main/assets/LoginHub.png)
   
 ---
 
@@ -587,15 +589,13 @@ git remote show origin
 
 <div class="fit">
 
-
-
-
 # <!--fit-->  Quando fazer commit?
 
+</div>
 
 
 
-  ![bg blur:5px](photo-2983401.jpeg)
+  ![bg blur:5px](https://raw.githubusercontent.com/coelhoisaque/git-github-presentation/refs/heads/main/assets/photo-2983401.jpeg)
 
 
 
