@@ -4,8 +4,8 @@
 
 ---
 
-## Sobre a Palestra  
-Esta palestra foi ministrada para graduandos veteranos do curso de **Sistemas de Informação** da UNEX, com foco em práticas modernas de controle de versão e colaboração em equipe usando **Git e GitHub**. O objetivo foi capacitar os alunos a gerenciar projetos de software de forma eficiente, desde o versionamento local até a integração com plataformas remotas.
+## Sobre a Oficina
+Esta Oficina foi ministrada para graduandos veteranos do curso de **Sistemas de Informação** da UNEX, com foco em práticas modernas de controle de versão e colaboração em equipe usando **Git e GitHub**. O objetivo foi capacitar os alunos a gerenciar projetos de software de forma eficiente, desde o versionamento local até a integração com plataformas remotas.
 
 ---
 
