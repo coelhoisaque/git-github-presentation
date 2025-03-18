@@ -6,7 +6,7 @@
 
 ## Sobre a Oficina
 Esta Oficina foi ministrada para graduandos veteranos do curso de **Sistemas de Informação** da UNEX, com foco em práticas modernas de controle de versão e colaboração em equipe usando **Git e GitHub**. 
-(veja mais no [blog](https://compilando.hashnode.dev/gitgithub-controleversao)
+veja mais no [blog](https://compilando.hashnode.dev/gitgithub-controleversao)
 ---
 
 ## Conteúdo Abordado  
